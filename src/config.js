@@ -41,7 +41,7 @@ export const LUXTARA_CONFIG = {
       client: "ZK-Clothes",
       description: "A modern Shopify e-commerce store for a fashion brand, optimized for performance and SEO.",
       stack: ["Shopify","SEO"],
-      image: '/pdimages/ZK-Clothes.png',
+      image: '/pdimages/Zk-Clothes.png',
       url: 'https://zkclothes.in', 
     },
   
