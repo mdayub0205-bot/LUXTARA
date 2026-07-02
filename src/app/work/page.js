@@ -61,7 +61,7 @@ export default function Work() {
                     <img
                       src={project.image}
                       alt={project.title}
-                      className="w-full h-full object-contain transition-transform duration-700 ease-out group-hover:scale-105"
+                      className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
                     />
                     <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                     <div className="absolute top-3 left-3 flex gap-2">
